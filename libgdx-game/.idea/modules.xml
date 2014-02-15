@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-gdx-game/my-gdx-game.iml" filepath="$PROJECT_DIR$/my-gdx-game/my-gdx-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-gdx-game-android/my-gdx-game-android.iml" filepath="$PROJECT_DIR$/my-gdx-game-android/my-gdx-game-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-gdx-game-desktop/my-gdx-game-desktop.iml" filepath="$PROJECT_DIR$/my-gdx-game-desktop/my-gdx-game-desktop.iml" />
+    </modules>
+  </component>
+</project>
+
